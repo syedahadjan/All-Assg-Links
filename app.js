@@ -10,7 +10,7 @@ var assignments = [
   {
     Name: "Ecommerce site",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://sparkly-biscotti-745c25.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -18,7 +18,7 @@ var assignments = [
   {
     Name: "flex box",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://effervescent-selkie-af2cef.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -26,7 +26,7 @@ var assignments = [
   {
     Name: "figma clone",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://fantastic-manatee-1a3c06.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -34,7 +34,7 @@ var assignments = [
   {
     Name: "Grid",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://cheerful-crostata-f06066.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -42,7 +42,7 @@ var assignments = [
   {
     Name: "Gaming-PC",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://subtle-kangaroo-d5a363.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -50,7 +50,7 @@ var assignments = [
   {
     Name: "Navbar",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://wondrous-gingersnap-af2a95.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -58,7 +58,7 @@ var assignments = [
   {
     Name: "NEW-NAV",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://tourmaline-marigold-6a3a03.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -66,7 +66,7 @@ var assignments = [
   {
     Name: "Registration Form",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://serene-alpaca-d3d996.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -74,7 +74,7 @@ var assignments = [
   {
     Name: "Responsive Cards",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://melodious-marzipan-5bd119.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -82,15 +82,15 @@ var assignments = [
   {
     Name: "Etsy",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://cute-froyo-837f58.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
   },
   {
-    Name: "Figma Clone",
+    Name: "ZK KITCHEN",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://jade-basbousa-459e5b.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
@@ -98,7 +98,7 @@ var assignments = [
   {
     Name: "Color Picker",
     Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Link: "https://spontaneous-granita-e505c6.netlify.app",
     date: "5/28/2024",
     description: "create ludo using html tables",
     image: "images/cat1.WEBp",
