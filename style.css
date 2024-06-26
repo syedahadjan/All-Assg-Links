@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  /* background-image: url('images/wall2.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.light-theme body {
+  background-color: #242425;
+  background-image: url('images/light.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #1a202c;
+}
+
+header, footer {
+  width: 100%;
+}
+
+header h1 {
+  color: #ff6ac1;
+  text-shadow: 0px 0px 5px rgba(255, 106, 193, 0.5);
+}
+
+.light-theme header h1 {
+  color: #000000;
+}
+
+.ironman-footer {
+  color: #6e6e6e;
+  opacity: 0.8;
+}
+
+.light-theme .ironman-footer {
+  color: #6e6e6e;
+}
+
+#ASSIGNMENTS {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.ironman-card {
+  background-color: #212121;
+  border: 2px solid #ff6ac1;
+  box-shadow: 0px 0px 20px rgba(255, 106, 193, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  width: calc(20% - 20px);
+  min-width: 200px;
+}
+
+.light-theme .ironman-card {
+  background-color: #ffffff;
+  border-color: #ff6ac1;
+  color: #1a202c;
+}
+
+.ironman-card .p-6 {
+  padding: 20px;
+}
+
+.ironman-card h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ff6ac1;
+}
+
+.light-theme .ironman-card h1 {
+  color: #00bfa6;
+}
+
+.ironman-card p {
+  color: #ffffff;
+}
+
+.light-theme .ironman-card p {
+  color: #1a202c;
+}
+
+.ironman-link {
+  color: #00ffea;
+  text-decoration: none;
+}
+
+.light-theme .ironman-link {
+  color: #00bfa6;
+}
+
+.ironman-link:hover {
+  text-decoration: underline;
+}
+
+.light-theme .ironman-link:hover {
+  text-decoration: underline;
+}
+
+.ironman-border {
+  border-color: #00ffea;
+  border-style: solid;
+  border-width: 0 0 2px 0;
+}
+
+.light-theme .ironman-border {
+  border-color: #00bfa6;
+}
+
+#theme-toggle {
+  background-color: #4a5568;
+  color: #cbd5e0;
+}
+
+#theme-toggle:hover {
+  background-color: #2d3748;
+}
+
+.light-theme {
+  background-color: #f3f4f6;
+  color: #1a202c;
+}
+
+.light-theme header {
+  background-color: #edf2f7;
+}
+
+.light-theme .ironman-card {
+  background-color: #ffffff;
+  border-color: #cbd5e0;
+  color: #1a202c;
+}
+
+.light-theme .ironman-card h1 {
+  color: #2d3748;
+}
+
+.light-theme .ironman-link {
+  color: #2b6cb0;
+}
+
+.light-theme .ironman-border {
+  border-color: #2b6cb0;
+}
