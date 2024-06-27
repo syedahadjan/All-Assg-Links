@@ -152,11 +152,11 @@ var assignments = [
     image: "images/cat1.WEBp",
   },
   {
-    Name: "Color Picker",
-    Code: "https://tubular-clafoutis-98417a.netlify.app",
-    Link: "https://tubular-clafoutis-98417a.netlify.app",
+    Name: "OS SHOP",
+    Code: "https://syedahadjan.github.io/OS-SHOP/",
+    Link: "https://syedahadjan.github.io/OS-SHOP/",
     date: "5/28/2024",
-    description: "create ludo using html tables",
+    description: "Using Filters Method",
     image: "images/cat1.WEBp",
   },
 ];
